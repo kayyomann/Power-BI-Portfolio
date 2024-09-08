@@ -32,6 +32,7 @@ To present the insights effectively, I designed an interactive dashboard using P
 - **KPI Cards & Gauges**: Showing key metrics at a glance.
 - **Matrix**: Providing detailed cross-tabular analysis.
 - **Slicers & Sliders**: Enabling easy filtering and time-period adjustments.
+- [A Comprehensive Dashboard for AdventureWorks] ([https://yourdashboardlink.com](https://app.powerbi.com/view?r=eyJrIjoiODcxMjE3MzMtMmY0Yi00YTIwLWE2ZjItMWM2ODUwOTAyZTdkIiwidCI6IjA3ZjFiOTE0LTE1YjMtNDUzOC1hMmNjLWM5ODcyY2U4Y2YxMCJ9&pageName=ReportSection))
 
 The dashboard was structured across four pages:
 1. **Customer Detail Page**: Showcasing customer segmentation.
