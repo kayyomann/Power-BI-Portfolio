@@ -1,6 +1,6 @@
 # Eniola Alabi - Power BI Portfolio
 
-Welcome to my portfolio of Power BI projects. I specialize in using data analysis and visualization to help businesses make informed decisions. Below are some of the projects I’ve completed, showcasing my work with Power BI, SQL, and DAX.
+Welcome to my portfolio of Power BI projects. I specialize in using data analysis and visualization to help businesses make informed decisions. Below are some of the projects I’ve completed, showcasing my work with Power BI, Power Query, and DAX.
 
 ## Projects
 
