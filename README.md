@@ -1,19 +1,17 @@
-# Maven Toys Executive Dashboard
+# Eniola Alabi - Power BI Portfolio
 
-The **Maven Toys Executive Dashboard** was designed to provide the leadership team with a simple, interactive way to track key business metrics. This dashboard delivers a comprehensive overview of monthly orders, revenue, profits, and top-performing product categories, all filtered by store location. It's a streamlined tool for monitoring high-level trends and performance across multiple stores.
+Welcome to my portfolio of Power BI projects. I specialize in using data analysis and visualization to help businesses make informed decisions. Below are some of the projects I’ve completed, showcasing my work with Power BI, SQL, and DAX.
 
-[**Interactive Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiZjM0NDBiOTQtZGRhNC00ZjkzLWExMDctYWFmMmZjMWZlZThkIiwidCI6IjA3ZjFiOTE0LTE1YjMtNDUzOC1hMmNjLWM5ODcyY2U4Y2YxMCJ9)
+## Projects
 
-## Goals:
-- **Track KPIs**: Monitor total monthly orders, revenue, and profits across different store locations and product categories.
-- **Regional Comparison**: Provide a breakdown of store performance based on location, allowing leadership to focus on airport, commercial, downtown, and residential areas.
-- **Product Insights**: Highlight the top-performing product categories such as toys, arts & crafts, games, sports & outdoors, and electronics, giving clear insight into what drives sales.
-- **Time-Based Analysis**: Include a visual representation of revenue trends over time, allowing users to track performance across the months.
+### 1. [AdventureWorks Sales Dashboard](./AdventureWorks_Project/README.md)
+- **Overview**: A comprehensive sales dashboard for AdventureWorks, focusing on KPIs like total orders, revenue, profit, and regional performance.
+- **[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODcxMjE3MzMtMmY0Yi00YTIwLWE2ZjItMWM2ODUwOTAyZTdkIiwidCI6IjA3ZjFiOTE0LTE1YjMtNDUzOC1hMmNjLWM5ODcyY2U4Y2YxMCJ9&pageName=ReportSection)**
 
-## Business Needs:
-Leadership required a clear, easy-to-understand tool to evaluate store performance and adjust strategies as needed. The goal was to provide concise, high-level metrics that would allow leadership to quickly identify areas of success or concern. Identifying top-performing product categories and store locations ensures that leadership can focus on growth opportunities and operational improvements.
+### 2. [Maven Toys Executive Dashboard](./MavenToys_Project/README.md)
+- **Overview**: An executive dashboard that tracks store performance, product insights, and revenue trends across different locations.
+- **[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjM0NDBiOTQtZGRhNC00ZjkzLWExMDctYWFmMmZjMWZlZThkIiwidCI6IjA3ZjFiOTE0LTE1YjMtNDUzOC1hMmNjLWM5ODcyY2U4Y2YxMCJ9)**
 
-## How Insights Were Discovered:
-I organized transaction records from January 2022 to September 2023 along with product and store location data to build a complete picture of the business.
-
-By creating interactive visuals for key metrics like revenue and orders, I enabled leadership to explore the data dynamically, helping them understand trends and identify key areas for improvement. Leveraging filters like store location (Airport, Commercial, Downtown, Residential), I allowed for focused analysis on how different store types were performing.
+### 3. [Maven Market Retail Analysis Project](./RetailAnalysis_Project/README.md)
+- **Overview**: An analysis of retail sales data, highlighting customer behavior and product performance trends.
+- **[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzY2ODk1MjQtNjNkMy00YTAwLWFkMDgtYjdiZjVhNTk4MWI4IiwidCI6IjA3ZjFiOTE0LTE1YjMtNDUzOC1hMmNjLWM5ODcyY2U4Y2YxMCJ9)**
