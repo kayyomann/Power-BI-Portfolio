@@ -4,7 +4,7 @@ Welcome to my portfolio of Power BI projects. I specialize in using data analysi
 
 ## Projects
 
-### 1. [AdventureWorks Sales Dashboard](./AdventureWorks_Project/README.md)
+### 1. [AdventureWorks Sales Dashboard](./Adventure_Works/README.md)
 - **Overview**: A comprehensive sales dashboard for AdventureWorks, focusing on KPIs like total orders, revenue, profit, and regional performance.
 - **[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODcxMjE3MzMtMmY0Yi00YTIwLWE2ZjItMWM2ODUwOTAyZTdkIiwidCI6IjA3ZjFiOTE0LTE1YjMtNDUzOC1hMmNjLWM5ODcyY2U4Y2YxMCJ9&pageName=ReportSection)**
 
