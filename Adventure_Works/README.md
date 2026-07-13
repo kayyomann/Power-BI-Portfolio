@@ -1,7 +1,7 @@
 # Maximizing Sales Potential: A Comprehensive Dashboard for AdventureWorks
 
 ## Project Overview
-As part of my role as a Business Intelligence Analyst at AdventureWorks, a global manufacturing company specializing in cycling equipment, I developed a Power BI dashboard to help the management team effectively track key performance indicators (KPIs) such as total orders, revenue, profit, and return rates. The project aimed to facilitate the comparison of regional performance, analyze product trends, and identify high-value customers.
+A global manufacturing company specializing in cycling equipment, I developed a Power BI dashboard to help the management team effectively track key performance indicators (KPIs) such as total orders, revenue, profit, and return rates. The project aimed to facilitate the comparison of regional performance, analyze product trends, and identify high-value customers.
 
 ## Data Source
 The data for this project was sourced from the company’s local data repository, comprising multiple raw CSV files. These files contained information on:
