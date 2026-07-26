@@ -15,3 +15,5 @@ Leadership required a clear, easy-to-understand tool to evaluate store performan
 I organized transaction records from January 2022 to September 2023 along with product and store location data to build a complete picture of the business.
 
 By creating interactive visuals for key metrics like revenue and orders, I enabled leadership to explore the data dynamically, helping them understand trends and identify key areas for improvement. Leveraging filters like store location (Airport, Commercial, Downtown, Residential), I allowed for focused analysis on how different store types were performing.
+
+## [View Interactive Dashboard] (https://app.powerbi.com/view?r=eyJrIjoiYzY2ODk1MjQtNjNkMy00YTAwLWFkMDgtYjdiZjVhNTk4MWI4IiwidCI6IjA3ZjFiOTE0LTE1YjMtNDUzOC1hMmNjLWM5ODcyY2U4Y2YxMCJ9)**
