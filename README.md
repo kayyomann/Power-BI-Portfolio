@@ -15,3 +15,9 @@ Welcome to my portfolio of Power BI projects. I specialize in using data analysi
 ### 3. [Maven Market Retail Analysis Project](./Maven_Market/README.md)
 - **Overview**: An analysis of retail sales data, highlighting customer behavior and product performance trends.
 - **[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzY2ODk1MjQtNjNkMy00YTAwLWFkMDgtYjdiZjVhNTk4MWI4IiwidCI6IjA3ZjFiOTE0LTE1YjMtNDUzOC1hMmNjLWM5ODcyY2U4Y2YxMCJ9)**
+
+### 4. [Digital Banking Fraud Risk Analysis](./Fintech_Transaction_Fraud_Analytics/README.md)
+
+- **Overview**: An end-to-end fraud analytics case study using SQL and Power BI to analyze 6.3M+ digital transactions, identify fraud patterns, score account risk, and prioritize suspicious accounts for investigation.
+
+- **[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWY3M2Q0YzItMjFiZC00MTFhLTg3ZmItNTdjMDI4YjkwYmRjIiwidCI6IjA3ZjFiOTE0LTE1YjMtNDUzOC1hMmNjLWM5ODcyY2U4Y2YxMCJ9&pageName=a991c259c9200626fd4e)**

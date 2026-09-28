@@ -51,3 +51,5 @@ The insights from this project enabled the management team to make data-driven d
 
 ### Project Excerpt
 Explore key business metrics with our executive dashboard. Track sales, revenue, profit, and returns while comparing regional performance. Analyze product trends and identify high-value customers to drive strategic decisions at AdventureWorks.
+
+## [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODcxMjE3MzMtMmY0Yi00YTIwLWE2ZjItMWM2ODUwOTAyZTdkIiwidCI6IjA3ZjFiOTE0LTE1YjMtNDUzOC1hMmNjLWM5ODcyY2U4Y2YxMCJ9&pageName=ReportSection)
